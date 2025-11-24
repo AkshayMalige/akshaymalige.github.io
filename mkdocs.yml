@@ -7,7 +7,7 @@ theme:
     - scheme: default
       primary: red
       accent: deep orange
-    - scheme: slate
+    - scheme: indigo
       primary: red
       accent: deep orange
   features:
