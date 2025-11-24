@@ -38,6 +38,50 @@
                 radial-gradient(circle at 80% 10%, var(--md-accent-fg-color--transparent), transparent 32%);
 }
 
+/* Align text colors with the palettes for better contrast on both schemes */
+[data-md-color-scheme="sunrise"] .md-content__inner {
+    color: var(--md-default-fg-color);
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 18px;
+    box-shadow: var(--md-shadow-z1);
+}
+
+[data-md-color-scheme="midnight"] .md-content__inner {
+    color: var(--md-default-fg-color);
+    background: rgba(13, 21, 36, 0.92);
+    border-radius: 18px;
+    box-shadow: var(--md-shadow-z1);
+}
+
+[data-md-color-scheme="sunrise"] .md-typeset h1,
+[data-md-color-scheme="sunrise"] .md-typeset h2,
+[data-md-color-scheme="sunrise"] .md-typeset h3 {
+    color: var(--md-primary-fg-color--dark);
+}
+
+[data-md-color-scheme="midnight"] .md-typeset h1,
+[data-md-color-scheme="midnight"] .md-typeset h2,
+[data-md-color-scheme="midnight"] .md-typeset h3 {
+    color: #b6f6f5;
+}
+
+[data-md-color-scheme="sunrise"] .md-typeset a {
+    color: var(--md-primary-fg-color);
+    text-decoration-color: var(--md-accent-fg-color);
+}
+
+[data-md-color-scheme="midnight"] .md-typeset a {
+    color: #8fe0de;
+    text-decoration-color: var(--md-accent-fg-color);
+}
+
+[data-md-color-scheme] .md-typeset code,
+[data-md-color-scheme] .md-typeset pre,
+[data-md-color-scheme] .md-typeset kbd {
+    background-color: var(--md-code-bg-color);
+    color: var(--md-code-fg-color);
+}
+
 /* Remove the "figure" label and sharpen the profile snapshot */
 .md-typeset .admonition.figure,
 .md-typeset details.figure {
