@@ -4,12 +4,20 @@ site_url: https://akshaymalige.github.io/
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: indigo
-      accent: deep orange
-    - scheme: slate
-      primary: indigo
-      accent: deep orange
+    - media: "(prefers-color-scheme: light)"
+      scheme: sunrise
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: midnight
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.footer
