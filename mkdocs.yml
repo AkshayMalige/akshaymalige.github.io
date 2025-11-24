@@ -5,10 +5,10 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: brown
+      primary: red
       accent: deep orange
     - scheme: slate
-      primary: brown
+      primary: red
       accent: deep orange
   features:
     - navigation.instant
