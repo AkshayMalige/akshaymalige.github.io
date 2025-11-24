@@ -1,0 +1,41 @@
+site_name: Akshay Malige
+site_url: https://akshaymalige.github.io/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: brown
+      accent: deep orange
+    - scheme: slate
+      primary: brown
+      accent: deep orange
+  features:
+    - navigation.instant
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.expand
+    - toc.integrate
+    - toc.follow
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Blog: blog.md
+  - CV: cv.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
