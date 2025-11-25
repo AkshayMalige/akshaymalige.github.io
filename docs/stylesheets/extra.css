@@ -88,6 +88,22 @@
     text-decoration-color: #f2c791;
 }
 
+[data-md-color-scheme="sunrise"] .md-nav__title,
+[data-md-color-scheme="sunrise"] .md-nav__link {
+    color: var(--md-default-fg-color);
+}
+
+[data-md-color-scheme="midnight"] .md-nav__title,
+[data-md-color-scheme="midnight"] .md-nav__link {
+    color: var(--md-default-fg-color--light);
+}
+
+[data-md-color-scheme] .md-nav__link--active,
+[data-md-color-scheme] .md-nav__link:focus,
+[data-md-color-scheme] .md-nav__link:hover {
+    color: var(--md-primary-fg-color);
+}
+
 [data-md-color-scheme] .md-typeset code,
 [data-md-color-scheme] .md-typeset pre,
 [data-md-color-scheme] .md-typeset kbd {
