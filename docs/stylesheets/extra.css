@@ -4,65 +4,78 @@
 
 /* Custom palettes for light (sunrise) and dark (midnight) modes */
 [data-md-color-scheme="sunrise"] {
-    --md-primary-fg-color: #0f4c75;
-    --md-primary-fg-color--light: #3a7ba5;
-    --md-primary-fg-color--dark: #0b3654;
-    --md-accent-fg-color: #f77f00;
-    --md-accent-fg-color--transparent: rgba(247, 127, 0, 0.25);
-    --md-default-bg-color: #f7fafc;
-    --md-default-fg-color: #0f172a;
-    --md-code-bg-color: #edf2f7;
-    --md-code-fg-color: #102a43;
-    --md-typeset-a-color: #0f4c75;
-    --md-shadow-z1: 0 12px 30px -18px rgba(15, 76, 117, 0.45);
-    --md-shadow-z2: 0 22px 46px -24px rgba(15, 76, 117, 0.38);
+    --md-primary-fg-color: #1e6091;
+    --md-primary-fg-color--light: #3a80b6;
+    --md-primary-fg-color--dark: #0f3d68;
+    --md-accent-fg-color: #f08c42;
+    --md-accent-fg-color--transparent: rgba(240, 140, 66, 0.22);
+    --md-default-bg-color: #f8fafc;
+    --md-default-fg-color: #1b263b;
+    --md-default-fg-color--light: #324a6b;
+    --md-code-bg-color: #eef2f8;
+    --md-code-fg-color: #15233c;
+    --md-typeset-a-color: #1e6091;
+    --md-shadow-z1: 0 12px 30px -18px rgba(30, 96, 145, 0.35);
+    --md-shadow-z2: 0 22px 46px -24px rgba(30, 96, 145, 0.3);
 }
 
 [data-md-color-scheme="midnight"] {
-    --md-primary-fg-color: #5bc0be;
-    --md-primary-fg-color--light: #80d6d4;
-    --md-primary-fg-color--dark: #389390;
-    --md-accent-fg-color: #f4a261;
-    --md-accent-fg-color--transparent: rgba(244, 162, 97, 0.28);
-    --md-default-bg-color: #0b1220;
-    --md-default-fg-color: #e6edf5;
-    --md-code-bg-color: #0f1b2f;
-    --md-code-fg-color: #e6edf5;
-    --md-typeset-a-color: #8fe0de;
-    --md-shadow-z1: 0 14px 32px -20px rgba(0, 0, 0, 0.75);
-    --md-shadow-z2: 0 26px 58px -28px rgba(0, 0, 0, 0.7);
+    --md-primary-fg-color: #86c5ff;
+    --md-primary-fg-color--light: #add7ff;
+    --md-primary-fg-color--dark: #5b9ad4;
+    --md-accent-fg-color: #f2b880;
+    --md-accent-fg-color--transparent: rgba(242, 184, 128, 0.22);
+    --md-default-bg-color: #0b1324;
+    --md-default-fg-color: #e6edf7;
+    --md-default-fg-color--light: #c0c8d8;
+    --md-code-bg-color: #0f1d33;
+    --md-code-fg-color: #e9effa;
+    --md-typeset-a-color: #a7d8ff;
+    --md-shadow-z1: 0 14px 32px -20px rgba(0, 0, 0, 0.7);
+    --md-shadow-z2: 0 26px 58px -28px rgba(0, 0, 0, 0.64);
 }
 
-[data-md-color-scheme] .md-main {
-    background: radial-gradient(circle at 20% 20%, var(--md-accent-fg-color--transparent), transparent 36%),
-                radial-gradient(circle at 80% 10%, var(--md-accent-fg-color--transparent), transparent 32%);
+[data-md-color-scheme] .md-typeset {
+    color: var(--md-default-fg-color);
+    line-height: 1.7;
+}
+
+[data-md-color-scheme] .md-typeset p,
+[data-md-color-scheme] .md-typeset li {
+    color: var(--md-default-fg-color);
 }
 
 /* Align text colors with the palettes for better contrast on both schemes */
 [data-md-color-scheme="sunrise"] .md-content__inner {
     color: var(--md-default-fg-color);
-    background: rgba(255, 255, 255, 0.9);
-    border-radius: 18px;
-    box-shadow: var(--md-shadow-z1);
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
 }
 
 [data-md-color-scheme="midnight"] .md-content__inner {
     color: var(--md-default-fg-color);
-    background: rgba(13, 21, 36, 0.92);
-    border-radius: 18px;
-    box-shadow: var(--md-shadow-z1);
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
 }
 
 [data-md-color-scheme="sunrise"] .md-typeset h1,
 [data-md-color-scheme="sunrise"] .md-typeset h2,
-[data-md-color-scheme="sunrise"] .md-typeset h3 {
+[data-md-color-scheme="sunrise"] .md-typeset h3,
+[data-md-color-scheme="sunrise"] .md-typeset h4,
+[data-md-color-scheme="sunrise"] .md-typeset h5,
+[data-md-color-scheme="sunrise"] .md-typeset h6 {
     color: var(--md-primary-fg-color--dark);
 }
 
 [data-md-color-scheme="midnight"] .md-typeset h1,
 [data-md-color-scheme="midnight"] .md-typeset h2,
-[data-md-color-scheme="midnight"] .md-typeset h3 {
-    color: #b6f6f5;
+[data-md-color-scheme="midnight"] .md-typeset h3,
+[data-md-color-scheme="midnight"] .md-typeset h4,
+[data-md-color-scheme="midnight"] .md-typeset h5,
+[data-md-color-scheme="midnight"] .md-typeset h6 {
+    color: #d6e9ff;
 }
 
 [data-md-color-scheme="sunrise"] .md-typeset a {
@@ -71,8 +84,8 @@
 }
 
 [data-md-color-scheme="midnight"] .md-typeset a {
-    color: #8fe0de;
-    text-decoration-color: var(--md-accent-fg-color);
+    color: var(--md-typeset-a-color);
+    text-decoration-color: #f2c791;
 }
 
 [data-md-color-scheme] .md-typeset code,
