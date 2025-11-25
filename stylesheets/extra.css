@@ -35,11 +35,6 @@
     --md-shadow-z2: 0 26px 58px -28px rgba(0, 0, 0, 0.64);
 }
 
-[data-md-color-scheme] .md-main {
-    background: radial-gradient(circle at 20% 20%, var(--md-accent-fg-color--transparent), transparent 36%),
-                radial-gradient(circle at 80% 10%, var(--md-accent-fg-color--transparent), transparent 32%);
-}
-
 [data-md-color-scheme] .md-typeset {
     color: var(--md-default-fg-color);
     line-height: 1.7;
@@ -53,16 +48,16 @@
 /* Align text colors with the palettes for better contrast on both schemes */
 [data-md-color-scheme="sunrise"] .md-content__inner {
     color: var(--md-default-fg-color);
-    background: rgba(255, 255, 255, 0.9);
-    border-radius: 18px;
-    box-shadow: var(--md-shadow-z1);
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
 }
 
 [data-md-color-scheme="midnight"] .md-content__inner {
     color: var(--md-default-fg-color);
-    background: rgba(13, 21, 36, 0.92);
-    border-radius: 18px;
-    box-shadow: var(--md-shadow-z1);
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
 }
 
 [data-md-color-scheme="sunrise"] .md-typeset h1,
