@@ -21,7 +21,7 @@ Currently, I am a Post-doctoral Research Associate at Brookhaven National Labora
 - **Jagiellonian University**, Krakow, Poland — *Ph.D. in Physics* (2017 - 2023)  
   Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.
 - **Christ University**, Bangalore, India — *M.Sc. in Physics* (2014 - 2016)  
-  Thesis: "Analysis of meteorological data from ISRO."
+  Thesis: "Influence of short-wave and long-wave radiation on local weather"
 - **Mangalore University**, Mangalore, India — *B.Sc. in Physics, Electronics, Mathematics* (2011 - 2014)
 
 ## Work Experience
