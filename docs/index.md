@@ -3,11 +3,11 @@
 !!! figure inline end
     ![Portrait of Akshay Malige](assets/profile.JPG)
 
-**Welcome!** I'm Akshay Malige, a Long Island, NY based physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across DUNE, ATLAS, HADES, PANDA, and GRAMS. I specialize in VHDL/Verilog, HLS, hls4ml, and Versal ACAP platforms, with 40+ peer-reviewed publications.
+**Welcome!** I'm Akshay Malige, a physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across DUNE, ATLAS, HADES, PANDA, and GRAMS. I specialize in VHDL, HLS, hls4ml, Alveo and Versal ACAP platforms, with 40+ peer-reviewed publications.
 
-Currently, I am a Post-doctoral Research Associate at Brookhaven National Laboratory working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time detector alignment system. I also mentor collaborators on FPGA design and HLS best practices.
+Currently, I am a Post-doctoral Research Associate at Brookhaven National Laboratory working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (μs-s) feature extraction system (AIE/AIE-ML).
 
-**Links:** [CV](assets/cv.pdf) / [Google Scholar](#) / [GitHub](https://github.com/akshaymalige) / [LinkedIn](https://www.linkedin.com/in/akshay-m-a9ba69b) / [Email](mailto:amalige@bnl.gov)
+**Links:** [CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=X3UKMuwAAAAJ&hl=en) / [GitHub](https://github.com/akshaymalige) / [LinkedIn](https://www.linkedin.com/in/akshay-m-a9ba69b) / [Email](mailto:amalige@bnl.gov)
 
 ## Snapshot
 
