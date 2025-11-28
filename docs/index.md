@@ -5,7 +5,7 @@
 
 **Welcome!** I'm Akshay Malige, a physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across DUNE, ATLAS, HADES, PANDA, and GRAMS. I specialize in VHDL, HLS, hls4ml, Alveo and Versal ACAP platforms, with 40+ peer-reviewed publications.
 
-Currently, I am a Post-doctoral Research Associate at Brookhaven National Laboratory working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (μs-s) feature extraction system (AIE/AIE-ML).
+Currently, I am a Post-doctoral Research Associate at Brookhaven National Laboratory working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (μs-s) feature extraction system.
 
 **Links:** [CV](assets/cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=X3UKMuwAAAAJ&hl=en) / [GitHub](https://github.com/akshaymalige) / [LinkedIn](https://www.linkedin.com/in/akshay-m-a9ba69b) / [Email](mailto:amalige@bnl.gov)
 
@@ -89,7 +89,4 @@ Full publication list available on [Google Scholar (placeholder)](#).
 - Marie Sklodowska-Curie COFUND Fellowship (contributing researcher) - EU Horizon 2020 (Grant 665778).
 - University Research Grants - Jagiellonian University (MNS Grants for Young Scientists, 2019 and 2020).
 - Outstanding Working Group Award - PANDA@HADES Collaboration (2022) for tracking and readout development.
-
-## Other Information
-
-Citizenship: Indian. Date of Birth: 12 August 1994. Interests: White-water kayaking, wildlife.
+use this profile
