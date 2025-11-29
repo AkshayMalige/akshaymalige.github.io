@@ -19,7 +19,7 @@ Currently, I am a Post-doctoral Research Associate at Brookhaven National Labora
 ## Education
 
 - **Jagiellonian University**, Krakow, Poland — *Ph.D. in Physics* (2017 - 2023)  
-  Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.
+  Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing. [Thesis](https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content)
 - **Christ University**, Bangalore, India — *M.Sc. in Physics* (2014 - 2016)  
   Thesis: "Influence of short-wave and long-wave radiation on local weather"
 - **Mangalore University**, Mangalore, India — *B.Sc. in Physics, Electronics, Mathematics* (2011 - 2014)
@@ -27,9 +27,9 @@ Currently, I am a Post-doctoral Research Associate at Brookhaven National Labora
 ## Work Experience
 
 - **Brookhaven National Laboratory (BNL)**, Upton, NY, USA — *Post-doctoral Research Associate* (Dec 2024 - Present)  
-  Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time detector alignment system spanning AI Engine, programmable logic, and ARM cores.
+  Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time feature extraction using AI Engine, programmable logic, and ARM cores.
 - **Columbia University (Nevis Laboratories)**, New York, NY, USA — *Post-doctoral Research Scientist* (Jul 2023 - Dec 2024)  
-  Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA GRAMS TPC readout and integration.
+  Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA [GRAMS](https://news.columbia.edu/news/using-new-balloon-borne-technology-probe-deeper-our-dark-universe) TPC readout and integration.
 - **Hitachi Energy**, Krakow, Poland — *R&D Product Engineer (FPGA Developer)* (Feb 2023 - Jun 2023)  
   Designed and verified VHDL logic for HVDC converter control systems; delivered timing closure and integration into grid protection products.
 - **AGH University of Science and Technology**, Krakow, Poland — *Research Assistant (Ph.D. Researcher)* (Jan 2022 - Feb 2023)  
