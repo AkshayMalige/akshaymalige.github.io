@@ -18,24 +18,86 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 
 ## Education
 
-- **Jagiellonian University**, Krakow, Poland — *Ph.D. in Physics* (2017 - 2023)  
-  Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing. [Thesis](https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content)
-- **Christ University**, Bangalore, India — *M.Sc. in Physics* (2014 - 2016)  
-  Thesis: "Influence of short-wave and long-wave radiation on local weather"
-- **Mangalore University**, Mangalore, India — *B.Sc. in Physics, Electronics, Mathematics* (2011 - 2014)
+<div class="edu-work-grid">
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for Jagiellonian University">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Jagiellonian University</strong> — <em>Ph.D. in Physics</em></div>
+    <div class="edu-work-meta">2017 - 2023 · Krakow, Poland</div>
+    <p>Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing. [pdf](https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content)</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for Christ University">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Christ University</strong> — <em>M.Sc. in Physics</em></div>
+    <div class="edu-work-meta">2014 - 2016 · Bangalore, India</div>
+    <p>Thesis: "Influence of short-wave and long-wave radiation on local weather."</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for Mangalore University">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Mangalore University</strong> — <em>B.Sc. in Physics, Electronics, Mathematics</em></div>
+    <div class="edu-work-meta">2011 - 2014 · Mangalore, India</div>
+  </div>
+</div>
+
+</div>
 
 ## Work Experience
 
-- **Brookhaven National Laboratory (BNL)**, Upton, NY, USA — *Post-doctoral Research Associate* (Dec 2024 - Present)  
-  Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time feature extraction using AI Engine, programmable logic, and ARM cores.
-- **Columbia University (Nevis Laboratories)**, New York, NY, USA — *Post-doctoral Research Scientist* (Jul 2023 - Dec 2024)  
-  Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA [GRAMS](https://news.columbia.edu/news/using-new-balloon-borne-technology-probe-deeper-our-dark-universe) TPC readout and integration.
-- **Hitachi Energy**, Krakow, Poland — *R&D Product Engineer (FPGA Developer)* (Feb 2023 - Jun 2023)  
-  Designed and verified VHDL logic for HVDC converter control systems; delivered timing closure and integration into grid protection products.
-- **AGH University of Science and Technology**, Krakow, Poland — *Research Assistant (Ph.D. Researcher)* (Jan 2022 - Feb 2023)  
-  Built FPGA-based DAQ and online processing for HADES and PANDA; prototyped straw tube tracker hardware and remote control/monitoring.
-- **ThinkLabs Technosolutions**, Bangalore, India — *Training Specialist* (Nov 2016 - Sep 2017)  
-  Delivered 100+ STEM hardware workshops across India and built electronics/robotics training kits.
+<div class="edu-work-grid">
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for Brookhaven National Laboratory">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Brookhaven National Laboratory (BNL)</strong> — <em>Post-doctoral Research Associate</em></div>
+    <div class="edu-work-meta">Dec 2024 - Present · Upton, NY, USA</div>
+    <p>Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time feature extraction using AI Engine, programmable logic, and ARM cores.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for Columbia University (Nevis Laboratories)">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Columbia University (Nevis Laboratories)</strong> — <em>Post-doctoral Research Scientist</em></div>
+    <div class="edu-work-meta">Jul 2023 - Dec 2024 · New York, NY, USA</div>
+    <p>Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA <a href="https://news.columbia.edu/news/using-new-balloon-borne-technology-probe-deeper-our-dark-universe">GRAMS</a> TPC readout and integration.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for Hitachi Energy">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Hitachi Energy</strong> — <em>R&amp;D Product Engineer (FPGA Developer)</em></div>
+    <div class="edu-work-meta">Feb 2023 - Jun 2023 · Krakow, Poland</div>
+    <p>Designed and verified VHDL logic for HVDC converter control systems; delivered timing closure and integration into grid protection products.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for AGH University of Science and Technology">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>AGH University of Science and Technology</strong> — <em>Research Assistant (Ph.D. Researcher)</em></div>
+    <div class="edu-work-meta">Jan 2022 - Feb 2023 · Krakow, Poland</div>
+    <p>Built FPGA-based DAQ and online processing for HADES and PANDA; prototyped straw tube tracker hardware and remote control/monitoring.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot" aria-label="Logo placeholder for ThinkLabs Technosolutions">Add logo</div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>ThinkLabs Technosolutions</strong> — <em>Training Specialist</em></div>
+    <div class="edu-work-meta">Nov 2016 - Sep 2017 · Bangalore, India</div>
+    <p>Delivered 100+ STEM hardware workshops across India and built electronics/robotics training kits.</p>
+  </div>
+</div>
+
+</div>
 
 ## Research Projects
 
