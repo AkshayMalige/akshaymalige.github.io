@@ -194,6 +194,19 @@ img.logo-slot {
     overflow: hidden;
 }
 
+.logo-slot.has-logo {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(30, 96, 145, 0.16);
+    background: var(--md-default-bg-color);
+    padding: 10px;
+}
+
+[data-md-color-scheme="midnight"] .logo-slot.has-logo {
+    border-color: rgba(134, 197, 255, 0.22);
+    background: rgba(255, 255, 255, 0.06);
+}
+
 [data-md-color-scheme="midnight"] .logo-slot {
     border-color: rgba(134, 197, 255, 0.26);
     background: linear-gradient(135deg, rgba(242, 184, 128, 0.12), rgba(134, 197, 255, 0.09));
