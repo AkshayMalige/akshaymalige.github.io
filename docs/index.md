@@ -21,7 +21,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 <div class="edu-work-grid">
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for Jagiellonian University">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for Jagiellonian University">
+    <img src="assets/images/POL_Jagiellonian_University_logo.png" alt="Jagiellonian University logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Jagiellonian University</strong> — <em>Ph.D. in Physics</em></div>
     <div class="edu-work-meta">2017 - 2023 · Krakow, Poland</div>
@@ -30,7 +32,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 </div>
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for Christ University">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for Christ University">
+    <img src="assets/images/christ.png" alt="Christ University logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Christ University</strong> — <em>M.Sc. in Physics</em></div>
     <div class="edu-work-meta">2014 - 2016 · Bangalore, India</div>
@@ -39,7 +43,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 </div>
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for Mangalore University">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for Mangalore University">
+    <img src="assets/images/Mangalore_University_logo.png" alt="Mangalore University logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Mangalore University</strong> — <em>B.Sc. in Physics, Electronics, Mathematics</em></div>
     <div class="edu-work-meta">2011 - 2014 · Mangalore, India</div>
@@ -53,7 +59,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 <div class="edu-work-grid">
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for Brookhaven National Laboratory">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for Brookhaven National Laboratory">
+    <img src="assets/images/bnl.png" alt="Brookhaven National Laboratory logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Brookhaven National Laboratory (BNL)</strong> — <em>Post-doctoral Research Associate</em></div>
     <div class="edu-work-meta">Dec 2024 - Present · Upton, NY, USA</div>
@@ -62,7 +70,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 </div>
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for Columbia University (Nevis Laboratories)">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for Columbia University (Nevis Laboratories)">
+    <img src="assets/images/columbia_uni.jpg" alt="Columbia University logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Columbia University (Nevis Laboratories)</strong> — <em>Post-doctoral Research Scientist</em></div>
     <div class="edu-work-meta">Jul 2023 - Dec 2024 · New York, NY, USA</div>
@@ -71,7 +81,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 </div>
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for Hitachi Energy">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for Hitachi Energy">
+    <img src="assets/images/hitachi.png" alt="Hitachi Energy logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Hitachi Energy</strong> — <em>R&amp;D Product Engineer (FPGA Developer)</em></div>
     <div class="edu-work-meta">Feb 2023 - Jun 2023 · Krakow, Poland</div>
@@ -80,7 +92,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 </div>
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for AGH University of Science and Technology">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for AGH University of Science and Technology">
+    <img src="assets/images/agh.png" alt="AGH University of Science and Technology logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>AGH University of Science and Technology</strong> — <em>Research Assistant (Ph.D. Researcher)</em></div>
     <div class="edu-work-meta">Jan 2022 - Feb 2023 · Krakow, Poland</div>
@@ -89,7 +103,9 @@ Currently, I am a Post-doctoral Research Associate at [Brookhaven National Labor
 </div>
 
 <div class="edu-work-card">
-  <div class="logo-slot" aria-label="Logo placeholder for ThinkLabs Technosolutions">Add logo</div>
+  <div class="logo-slot has-logo" aria-label="Logo for ThinkLabs Technosolutions">
+    <img src="assets/images/thinklabs.png" alt="ThinkLabs Technosolutions logo" loading="lazy" />
+  </div>
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>ThinkLabs Technosolutions</strong> — <em>Training Specialist</em></div>
     <div class="edu-work-meta">Nov 2016 - Sep 2017 · Bangalore, India</div>

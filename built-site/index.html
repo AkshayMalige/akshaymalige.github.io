@@ -67,7 +67,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="brown" data-md-color-accent="deep-orange">
+    <body dir="ltr" data-md-color-scheme="sunrise" data-md-color-primary="custom" data-md-color-accent="custom">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -123,13 +123,21 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="brown" data-md-color-accent="deep-orange"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="sunrise" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
     
   
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="brown" data-md-color-accent="deep-orange"  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="midnight" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m3.55 19.09 1.41 1.41 1.8-1.79-1.42-1.42M12 6c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6c0-3.32-2.69-6-6-6m8 7h3v-2h-3m-2.76 7.71 1.8 1.79 1.41-1.41-1.79-1.8M20.45 5l-1.41-1.4-1.8 1.79 1.42 1.42M13 1h-2v3h2M6.76 5.39 4.96 3.6 3.55 5l1.79 1.81zM1 13h3v-2H1m12 9h-2v3h2"/></svg>
+      </label>
     
   
 </form>
@@ -462,17 +470,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#other-information" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Other Information
-      
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -582,11 +579,11 @@
 <h1 id="about">About<a class="headerlink" href="#about" title="Permanent link">&para;</a></h1>
 <div class="admonition figure inline end">
 <p class="admonition-title">Figure</p>
-<p><img alt="Portrait of Akshay Malige" src="assets/profile.JPG" /></p>
+<p><img alt="Portrait of Akshay Malige" src="assets/profile.png" /></p>
 </div>
-<p><strong>Welcome!</strong> I'm Akshay Malige, a Long Island, NY based physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across DUNE, ATLAS, HADES, PANDA, and GRAMS. I specialize in VHDL/Verilog, HLS, hls4ml, and Versal ACAP platforms, with 40+ peer-reviewed publications.</p>
-<p>Currently, I am a Post-doctoral Research Associate at Brookhaven National Laboratory working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time detector alignment system. I also mentor collaborators on FPGA design and HLS best practices.</p>
-<p><strong>Links:</strong> <a href="assets/cv.pdf">CV</a> / <a href="#">Google Scholar</a> / <a href="https://github.com/akshaymalige">GitHub</a> / <a href="https://www.linkedin.com/in/akshay-m-a9ba69b">LinkedIn</a> / <a href="mailto:amalige@bnl.gov">Email</a></p>
+<p><strong>Welcome!</strong> I'm Akshay Malige, a physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across <a href="https://www.dunescience.org/">DUNE</a>, <a href="https://atlas.cern/">ATLAS</a>, <a href="https://hades.gsi.de/">HADES</a>, <a href="https://panda.gsi.de/">PANDA</a>, and <a href="https://grams.sites.northeastern.edu/">GRAMS</a>. I specialize in VHDL, HLS, hls4ml, Alveo and Versal ACAP platforms, with 40+ peer-reviewed publications.</p>
+<p>Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.gov/world/">Brookhaven National Laboratory</a> working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (μs-s) feature extraction system.</p>
+<p><strong>Links:</strong> <a href="assets/cv.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=X3UKMuwAAAAJ&amp;hl=en">Google Scholar</a> / <a href="https://github.com/akshaymalige">GitHub</a> / <a href="https://www.linkedin.com/in/akshay-m-a9ba69b">LinkedIn</a> / <a href="mailto:amalige@bnl.gov">Email</a></p>
 <h2 id="snapshot">Snapshot<a class="headerlink" href="#snapshot" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Current:</strong> Postdoctoral Research Associate, Brookhaven National Laboratory</li>
@@ -595,26 +592,102 @@
 <li><strong>Email:</strong> <a href="mailto:amalige@bnl.gov">amalige@bnl.gov</a></li>
 </ul>
 <h2 id="education">Education<a class="headerlink" href="#education" title="Permanent link">&para;</a></h2>
-<ul>
-<li><strong>Jagiellonian University</strong>, Krakow, Poland — <em>Ph.D. in Physics</em> (2017 - 2023)<br />
-  Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.</li>
-<li><strong>Christ University</strong>, Bangalore, India — <em>M.Sc. in Physics</em> (2014 - 2016)<br />
-  Thesis: "Analysis of meteorological data from ISRO."</li>
-<li><strong>Mangalore University</strong>, Mangalore, India — <em>B.Sc. in Physics, Electronics, Mathematics</em> (2011 - 2014)</li>
-</ul>
+<div class="edu-work-grid">
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for Jagiellonian University">
+    <img src="assets/images/POL_Jagiellonian_University_logo.png" alt="Jagiellonian University logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Jagiellonian University</strong> — <em>Ph.D. in Physics</em></div>
+    <div class="edu-work-meta">2017 - 2023 · Krakow, Poland</div>
+    <p>Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing. [pdf](https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content)</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for Christ University">
+    <img src="assets/images/christ.png" alt="Christ University logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Christ University</strong> — <em>M.Sc. in Physics</em></div>
+    <div class="edu-work-meta">2014 - 2016 · Bangalore, India</div>
+    <p>Thesis: "Influence of short-wave and long-wave radiation on local weather."</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for Mangalore University">
+    <img src="assets/images/Mangalore_University_logo.png" alt="Mangalore University logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Mangalore University</strong> — <em>B.Sc. in Physics, Electronics, Mathematics</em></div>
+    <div class="edu-work-meta">2011 - 2014 · Mangalore, India</div>
+  </div>
+</div>
+
+</div>
+
 <h2 id="work-experience">Work Experience<a class="headerlink" href="#work-experience" title="Permanent link">&para;</a></h2>
-<ul>
-<li><strong>Brookhaven National Laboratory (BNL)</strong>, Upton, NY, USA — <em>Post-doctoral Research Associate</em> (Dec 2024 - Present)<br />
-  Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time detector alignment system spanning AI Engine, programmable logic, and ARM cores.</li>
-<li><strong>Columbia University (Nevis Laboratories)</strong>, New York, NY, USA — <em>Post-doctoral Research Scientist</em> (Jul 2023 - Dec 2024)<br />
-  Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA GRAMS TPC readout and integration.</li>
-<li><strong>Hitachi Energy</strong>, Krakow, Poland — <em>R&amp;D Product Engineer (FPGA Developer)</em> (Feb 2023 - Jun 2023)<br />
-  Designed and verified VHDL logic for HVDC converter control systems; delivered timing closure and integration into grid protection products.</li>
-<li><strong>AGH University of Science and Technology</strong>, Krakow, Poland — <em>Research Assistant (Ph.D. Researcher)</em> (Jan 2022 - Feb 2023)<br />
-  Built FPGA-based DAQ and online processing for HADES and PANDA; prototyped straw tube tracker hardware and remote control/monitoring.</li>
-<li><strong>ThinkLabs Technosolutions</strong>, Bangalore, India — <em>Training Specialist</em> (Nov 2016 - Sep 2017)<br />
-  Delivered 100+ STEM hardware workshops across India and built electronics/robotics training kits.</li>
-</ul>
+<div class="edu-work-grid">
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for Brookhaven National Laboratory">
+    <img src="assets/images/bnl.png" alt="Brookhaven National Laboratory logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Brookhaven National Laboratory (BNL)</strong> — <em>Post-doctoral Research Associate</em></div>
+    <div class="edu-work-meta">Dec 2024 - Present · Upton, NY, USA</div>
+    <p>Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time feature extraction using AI Engine, programmable logic, and ARM cores.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for Columbia University (Nevis Laboratories)">
+    <img src="assets/images/columbia_uni.jpg" alt="Columbia University logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Columbia University (Nevis Laboratories)</strong> — <em>Post-doctoral Research Scientist</em></div>
+    <div class="edu-work-meta">Jul 2023 - Dec 2024 · New York, NY, USA</div>
+    <p>Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA <a href="https://news.columbia.edu/news/using-new-balloon-borne-technology-probe-deeper-our-dark-universe">GRAMS</a> TPC readout and integration.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for Hitachi Energy">
+    <img src="assets/images/hitachi.png" alt="Hitachi Energy logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>Hitachi Energy</strong> — <em>R&amp;D Product Engineer (FPGA Developer)</em></div>
+    <div class="edu-work-meta">Feb 2023 - Jun 2023 · Krakow, Poland</div>
+    <p>Designed and verified VHDL logic for HVDC converter control systems; delivered timing closure and integration into grid protection products.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for AGH University of Science and Technology">
+    <img src="assets/images/agh.png" alt="AGH University of Science and Technology logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>AGH University of Science and Technology</strong> — <em>Research Assistant (Ph.D. Researcher)</em></div>
+    <div class="edu-work-meta">Jan 2022 - Feb 2023 · Krakow, Poland</div>
+    <p>Built FPGA-based DAQ and online processing for HADES and PANDA; prototyped straw tube tracker hardware and remote control/monitoring.</p>
+  </div>
+</div>
+
+<div class="edu-work-card">
+  <div class="logo-slot has-logo" aria-label="Logo for ThinkLabs Technosolutions">
+    <img src="assets/images/thinklabs.png" alt="ThinkLabs Technosolutions logo" loading="lazy" />
+  </div>
+  <div class="edu-work-body">
+    <div class="edu-work-title"><strong>ThinkLabs Technosolutions</strong> — <em>Training Specialist</em></div>
+    <div class="edu-work-meta">Nov 2016 - Sep 2017 · Bangalore, India</div>
+    <p>Delivered 100+ STEM hardware workshops across India and built electronics/robotics training kits.</p>
+  </div>
+</div>
+
+</div>
+
 <h2 id="research-projects">Research Projects<a class="headerlink" href="#research-projects" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Real-time Alignment on Versal ACAP</strong> (BNL LDRD, 2025)<br />
@@ -665,10 +738,9 @@
 <li>POLONEZ Postdoctoral Fellowship - National Science Centre (Poland), Hyperon production studies (2016/23/P/ST2/04066).</li>
 <li>Marie Sklodowska-Curie COFUND Fellowship (contributing researcher) - EU Horizon 2020 (Grant 665778).</li>
 <li>University Research Grants - Jagiellonian University (MNS Grants for Young Scientists, 2019 and 2020).</li>
-<li>Outstanding Working Group Award - PANDA@HADES Collaboration (2022) for tracking and readout development.</li>
+<li>Outstanding Working Group Award - PANDA@HADES Collaboration (2022) for tracking and readout development.
+use this profile</li>
 </ul>
-<h2 id="other-information">Other Information<a class="headerlink" href="#other-information" title="Permanent link">&para;</a></h2>
-<p>Citizenship: Indian. Date of Birth: 12 August 1994. Interests: White-water kayaking, wildlife.</p>
 
 
 
