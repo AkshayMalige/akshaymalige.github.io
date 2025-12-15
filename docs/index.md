@@ -5,7 +5,7 @@
 
 **Welcome!** I'm Akshay Malige, a physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across <a href="https://www.dunescience.org/" target="_blank" rel="noopener">DUNE</a>, <a href="https://atlas.cern/" target="_blank" rel="noopener">ATLAS</a>, <a href="https://hades.gsi.de/" target="_blank" rel="noopener">HADES</a>, <a href="https://panda.gsi.de/" target="_blank" rel="noopener">PANDA</a>, and <a href="https://grams.sites.northeastern.edu/" target="_blank" rel="noopener">GRAMS</a>. I specialize in VHDL, HLS, hls4ml, Alveo and Versal ACAP platforms, with 40+ peer-reviewed publications.
 
-Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.gov/world/" target="_blank" rel="noopener">Brookhaven National Laboratory</a> working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (μs-s) feature extraction system.
+Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.gov/world/" target="_blank" rel="noopener">Brookhaven National Laboratory</a> working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (*μ*s-s) feature extraction system.
 
 **Links:** <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a> / <a href="https://scholar.google.com/citations?user=X3UKMuwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a> / <a href="https://github.com/akshaymalige" target="_blank" rel="noopener">GitHub</a> / <a href="https://www.linkedin.com/in/akshay-m-a9ba69b" target="_blank" rel="noopener">LinkedIn</a> / <a href="mailto:amalige@bnl.gov">Email</a>
 
@@ -27,7 +27,11 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Brookhaven National Laboratory (BNL)</strong> — <em>Post-doctoral Research Associate</em></div>
     <div class="edu-work-meta">Dec 2024 - Present · Upton, NY, USA</div>
-    <p>Deploying FPGA-based ML for ATLAS Event Filter tracking and designing a Versal ACAP real-time feature extraction using AI Engine, programmable logic, and ARM cores.</p>
+    <p>Working on FPGA-based ML for ATLAS Event Filter tracking and prototyping real-time alignment workflows on Versal ACAP.</p>
+    <ul>
+      <li>Implementing low-latency inference with HLS and hls4ml on Xilinx Alveo and AMD Versal devices.</li>
+      <li>Building a proof-of-concept alignment pipeline spanning AI Engine tiles, programmable logic, and the ARM processing system (VEK280).</li>
+    </ul>
   </div>
 </div>
 
@@ -38,7 +42,11 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Columbia University (Nevis Laboratories)</strong> — <em>Post-doctoral Research Scientist</em></div>
     <div class="edu-work-meta">Jul 2023 - Dec 2024 · New York, NY, USA</div>
-    <p>Developed ML acceleration pipelines on FPGA for DUNE, ICEBERG, and MicroBooNE; technical coordinator for NASA-APRA <a href="https://news.columbia.edu/news/using-new-balloon-borne-technology-probe-deeper-our-dark-universe">GRAMS</a> TPC readout and integration.</p>
+    <p>Developed FPGA firmware and ML acceleration pipelines for neutrino experiments and supported the GRAMS TPC readout effort.</p>
+    <ul>
+      <li>Implemented real-time data compression and anomaly detection on FPGA for DUNE and MicroBooNE workflows.</li>
+      <li>Served as technical coordinator for NASA-APRA <a href="https://news.columbia.edu/news/using-new-balloon-borne-technology-probe-deeper-our-dark-universe">GRAMS</a>, supporting design reviews and multi-institution integration of the FPGA-based readout system.</li>
+    </ul>
   </div>
 </div>
 
@@ -49,7 +57,11 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Hitachi Energy</strong> — <em>R&amp;D Product Engineer (FPGA Developer)</em></div>
     <div class="edu-work-meta">Feb 2023 - Jun 2023 · Krakow, Poland</div>
-    <p>Designed and verified VHDL logic for HVDC converter control systems; delivered timing closure and integration into grid protection products.</p>
+    <p>Developed and verified FPGA logic for HVDC converter control systems.</p>
+    <ul>
+      <li>Wrote VHDL modules and testbenches for control and protection functions.</li>
+      <li>Ran timing analysis and verification to support integration into converter control hardware.</li>
+    </ul>
   </div>
 </div>
 
@@ -60,7 +72,12 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>AGH University of Science and Technology</strong> — <em>Research Assistant (Ph.D. Researcher)</em></div>
     <div class="edu-work-meta">Jan 2022 - Feb 2023 · Krakow, Poland</div>
-    <p>Built FPGA-based DAQ and online processing for HADES and PANDA; prototyped straw tube tracker hardware and remote control/monitoring.</p>
+    <p>Worked on real-time DAQ and detector prototyping for HADES and PANDA tracking systems.</p>
+    <ul>
+      <li>Developed data filtering and trigger logic modules and interfaced detector electronics with the readout framework.</li>
+      <li>Built and tested a PANDA straw tube tracker prototype, including front-end signal processing and calibration for beam tests.</li>
+      <li>Implemented remote control and monitoring tools for HADES detector subsystems to support stable operation during runs.</li>
+    </ul>
   </div>
 </div>
 
@@ -71,7 +88,11 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>ThinkLabs Technosolutions</strong> — <em>Training Specialist</em></div>
     <div class="edu-work-meta">Nov 2016 - Sep 2017 · Bangalore, India</div>
-    <p>Delivered 100+ STEM hardware workshops across India and built electronics/robotics training kits.</p>
+    <p>Delivered STEM workshops across India for instructors and students, covering basic electronics, robotics, and physics experiments.</p>
+    <ul>
+      <li>Reached 100+ instructors and 1000+ students through hands-on training sessions.</li>
+      <li>Developed curriculum and trained instructors in science communication and demonstration techniques.</li>
+    </ul>
   </div>
 </div>
 
