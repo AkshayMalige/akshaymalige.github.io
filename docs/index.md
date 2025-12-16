@@ -174,7 +174,7 @@ Full publication list available on <a href="https://scholar.google.com/citations
 
 - **Hardware/HDL:** FPGA design (VHDL/Verilog), RTL logic, high-speed serial links, timing closure, PCB schematic capture.
 - **HLS/ML:** Vivado HLS, Vitis HLS, hls4ml, AI Engine (AIE, AIE-ML), DPU.
-- **Platforms:** Xilinx Alveo U55c/U250/U280, Versal VEK280, PYNQ-Z2, ZCU104, ZCU102, Kintex Ultrascale KU15P, Lattice ECP3/ECP5.
+- **Platforms:** Xilinx Alveo U55c/U250/U280, Versal VEK280, VCK190, VP1552, PYNQ-Z2, ZCU104, ZCU102, KU15P, Lattice ECP3/ECP5.
 - **Software:** Python, C/C++, MATLAB, Bash, Git, Linux, ROOT, Docker.
 - **Frameworks/Tools:** PyTorch, TensorFlow, PYNQ, OpenCAPI, XRT, Vitis AI; Vivado, Vitis, ModelSim, HLS Profiler, Vitis Analyzer, Lattice Diamond, Quartus.
 - **Languages:** English (fluent), Hindi (advanced), Kannada (native), basic Polish.
