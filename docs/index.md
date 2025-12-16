@@ -141,7 +141,7 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 - **Real-time Alignment on Versal ACAP** (BNL LDRD, 2025)  
   Heterogeneous pipeline on AMD Versal VEK280 (AI Engine + PL + PS) for on-the-fly detector alignment and calibration. Links: [Talk](https://indico.cern.ch/event/1499357/contributions/6628604/) / [Poster](https://indico.cern.ch/event/1488410/contributions/6562892/)
 - **ATLAS ML Trigger** (2024 - Present)  
-  HLS/hls4ml kernels on Xilinx Alveo U280 for Event Filter tracking; optimized for latency and throughput.
+  HLS/hls4ml kernels on Xilinx Alveo U250 for Event Filter tracking; optimized for latency and throughput. Migration of the Event Filter tracking pipeline to Versal VCK190, VEK280, VP1552 platforms (from data-center card to embedded accel).
 - **FPGA Accelerated Trigger for DUNE** (2023)  
   Implemented 2D CNN-based trigger and feature extraction firmware for large-scale neutrino detectors.
 - **Anomaly Detection on FPGA** (2023)  
