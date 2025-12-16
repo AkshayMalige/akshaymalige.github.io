@@ -5,7 +5,7 @@
 
 **Welcome!** I'm Akshay Malige, a physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based DAQ, and low-latency ML for high-energy physics experiments, with contributions across <a href="https://www.dunescience.org/" target="_blank" rel="noopener">DUNE</a>, <a href="https://atlas.cern/" target="_blank" rel="noopener">ATLAS</a>, <a href="https://hades.gsi.de/" target="_blank" rel="noopener">HADES</a>, <a href="https://panda.gsi.de/" target="_blank" rel="noopener">PANDA</a>, and <a href="https://grams.sites.northeastern.edu/" target="_blank" rel="noopener">GRAMS</a>. I specialize in VHDL, HLS, hls4ml, Alveo and Versal ACAP platforms, with 40+ peer-reviewed publications.
 
-Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.gov/world/" target="_blank" rel="noopener">Brookhaven National Laboratory</a> working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (*μ*s-s) feature extraction system.
+Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.gov/world/" target="_blank" rel="noopener">Brookhaven National Laboratory</a> working on ATLAS Event Filter tracking (ML on Xilinx Alveo) and a Versal ACAP based real-time (μs–s) feature extraction system.
 
 **Links:** <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a> / <a href="https://scholar.google.com/citations?user=X3UKMuwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a> / <a href="https://github.com/akshaymalige" target="_blank" rel="noopener">GitHub</a> / <a href="https://www.linkedin.com/in/akshay-m-a9ba69b" target="_blank" rel="noopener">LinkedIn</a> / <a href="mailto:amalige@bnl.gov">Email</a>
 
@@ -109,7 +109,7 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Jagiellonian University</strong> — <em>Ph.D. in Physics</em></div>
     <div class="edu-work-meta">2017 - 2023 · Krakow, Poland</div>
-    <p>Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing. [pdf](https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content)</p>
+    <p>Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.</p>
   </div>
 </div>
 
@@ -139,40 +139,37 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 ## Research Projects
 
 - **Real-time Alignment on Versal ACAP** (BNL LDRD, 2025)  
-  Heterogeneous pipeline on AMD Versal VEK280 (AI Engine + PL + PS) for on-the-fly detector alignment. Links: [Slides placeholder](#) / [Poster placeholder](#) / [Code placeholder](#)
+  Heterogeneous pipeline on AMD Versal VEK280 (AI Engine + PL + PS) for on-the-fly detector alignment and calibration. Links: [Talk](https://indico.cern.ch/event/1499357/contributions/6628604/) / [Poster](https://indico.cern.ch/event/1488410/contributions/6562892/)
 - **ATLAS ML Trigger** (2024 - Present)  
-  HLS/hls4ml kernels on Xilinx Alveo U280 for Event Filter tracking; optimized for latency and throughput. Links: [Talk placeholder](#) / [Notebook placeholder](#)
+  HLS/hls4ml kernels on Xilinx Alveo U280 for Event Filter tracking; optimized for latency and throughput.
 - **FPGA Accelerated Trigger for DUNE** (2023)  
-  Implemented 2D CNN-based trigger and feature extraction firmware for large-scale neutrino detectors. Links: [Paper placeholder](#) / [Code placeholder](#) / [Slides placeholder](#)
+  Implemented 2D CNN-based trigger and feature extraction firmware for large-scale neutrino detectors.
 - **Anomaly Detection on FPGA** (2023)  
-  Autoencoder-based data quality monitoring on Xilinx Alveo boards for TPC data quality. Links: [Poster placeholder](#) / [Demo placeholder](#)
+  Autoencoder-based data quality monitoring on Xilinx Alveo boards for streaming liquid argon TPC data. Links: [Paper (arXiv)](https://arxiv.org/abs/2509.21817) / [Code (GitHub)](https://github.com/AkshayMalige/Nevis_LarTPC_anamoly_alveo)
 - **GRAMS TPC Readout** (2023)  
-  Lead for FPGA DAQ, slow control, and system integration for the balloon-borne gamma-ray experiment. Links: [System design placeholder](#) / [Review slides placeholder](#)
+  Lead for FPGA DAQ, slow control, and system integration for the balloon-borne gamma-ray experiment.
 - **PANDA Straw Tracker DAQ** (2019 - 2022)  
-  FPGA readout, online processing, and calibration for PANDA straw tube tracker (Ph.D. thesis). Links: [Thesis placeholder](#) / [Firmware placeholder](#)
+  FPGA readout, online processing, and calibration for PANDA straw tube tracker (Ph.D. thesis).
 
 ## Conference Presentations & Workshops
 
-- Connecting the Dots (CTD 2025), University of Tokyo, Nov 10-14, 2025 — Talk: "Real time inference on heterogeneous devices for detector calibration." [Talk link placeholder](#) / [Event page placeholder](#)
-- ACAT 2025, University of Hamburg, Sep 8-12, 2025 — Poster: "Accelerating Detector Alignment Calibration with Real-Time Machine Learning on Versal ACAP Devices." [Poster placeholder](#)
-- US ATLAS HLS Education and Development (AHEAD) Bootcamp, BNL, Jun 9-13, 2025 — Co-organizer and instructor for FPGA HLS training. [Materials placeholder](#)
-- Anomaly Detection for High Energy Physics (AD4HEP) Workshop, Columbia University, Jun 16-18, 2025 — Co-organizer and instructor. [Slides placeholder](#)
-- EuCAIFCon, Amsterdam, Apr 30-May 3, 2024 — Poster on FPGA-based anomaly detection. [Poster placeholder](#)
-- Workshop on Real-Time Machine Learning, Giessen, Apr 8-12, 2024. [Slides placeholder](#)
-- Neutrino Physics and Machine Learning Workshop, Tufts University, Aug 22-25, 2023. [Talk placeholder](#)
-- Xilinx Adaptive Compute Ph.D. School, ETH Zurich, Jan 24-28, 2022. [Certificate placeholder](#)
-- FAIRNESS 2019 (Arenzano), MESON 2018 (Krakow), and earlier conferences. [Archive placeholder](#)
+- Connecting the Dots (CTD 2025), University of Tokyo, Nov 10-14, 2025 — Talk: "Real time inference on heterogeneous devices for detector calibration." [Talk](https://indico.cern.ch/event/1499357/contributions/6628604/) / [Event](https://indico.cern.ch/event/1499357/)
+- ACAT 2025, University of Hamburg, Sep 8-12, 2025 — Poster: "Accelerating Detector Alignment Calibration with Real-Time Machine Learning on Versal ACAP Devices." [Poster](https://indico.cern.ch/event/1488410/contributions/6562892/) / [Event](https://indico.cern.ch/event/1488410/)
+- US ATLAS HLS Education and Development (AHEAD) Bootcamp, Brookhaven National Lab, June 9–13, 2025 — Co-organizer; developed FPGA HLS training materials and instructed 30+ participants. [Event](https://indico.cern.ch/event/1500540/) / [Tutorial page](https://github.com/AkshayMalige/AHEAD_2025/tree/main?tab=readme-ov-file)
+- European AI for Fundamental Physics Conference (EuCAIFCon), Amsterdam, Apr 30 – May 3, 2024 — Poster presenter on FPGA-based anomaly detection. [Contribution](https://indico.nikhef.nl/event/4875/contributions/20460/)
+- Neutrino Physics and Machine Learning Workshop, Tufts University, Aug 22-25, 2023. [Event](https://indico.ipmu.jp/event/462/)
+- Xilinx Adaptive Compute Ph.D. School, ETH Zurich, Jan 24-28, 2022.
+- FAIRNESS 2019 (Arenzano), MESON 2018 (Krakow), and earlier conferences.
 
 ## Selected Papers
-
+<!-- 
 - **IEEE Trans. Nuclear Science** — "Real-Time Data Processing Pipeline for Trigger Readout Board-Based DAQ Systems." *69(7), 1765-1772 (2022).* [PDF](#) / [arXiv](#) / [DOI](#)
 - **J. Phys.: Conf. Ser.** — "Development of Forward Tracker." *1667(1), 012028 (2020).* [PDF](#) / [Slides](#) / [DOI](#)
 - **EPJ Web Conf.** — "Performance of straw tube tracker prototypes with cosmic rays." *199, 05022 (2019).* [PDF](#) / [Poster](#) / [DOI](#)
 - **EPJ Web Conf.** — "Space charge effect in straw tube detectors for PANDA." *199, 05018 (2019).* [PDF](#) / [Slides](#) / [DOI](#)
-- **JINST** — "Comparison of readout systems for high-rate SiPM applications." *19(01), P01019 (2024).* [PDF](#) / [Code](#) / [DOI](#)
+- **JINST** — "Comparison of readout systems for high-rate SiPM applications." *19(01), P01019 (2024).* [PDF](#) / [Code](#) / [DOI](#) -->
 
-Full publication list available on [Google Scholar (placeholder)](#).
-
+Full publication list available on <a href="https://scholar.google.com/citations?user=X3UKMuwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>.
 ## Skills
 
 - **Hardware/HDL:** FPGA design (VHDL/Verilog), RTL logic, high-speed serial links, timing closure, PCB schematic capture.
@@ -188,4 +185,3 @@ Full publication list available on [Google Scholar (placeholder)](#).
 - Marie Sklodowska-Curie COFUND Fellowship (contributing researcher) - EU Horizon 2020 (Grant 665778).
 - University Research Grants - Jagiellonian University (MNS Grants for Young Scientists, 2019 and 2020).
 - Outstanding Working Group Award - PANDA@HADES Collaboration (2022) for tracking and readout development.
-use this profile
