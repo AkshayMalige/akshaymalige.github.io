@@ -139,13 +139,13 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 ## Research Projects
 
 - **Real-time Alignment on Versal ACAP** (BNL LDRD, 2025)  
-  Heterogeneous pipeline on AMD Versal VEK280 (AI Engine + PL + PS) for on-the-fly detector alignment and calibration. Links: [Talk](https://indico.cern.ch/event/1499357/contributions/6628604/) / [Poster](https://indico.cern.ch/event/1488410/contributions/6562892/)
+  Heterogeneous pipeline on AMD Versal VEK280 (AI Engine + PL + PS) for on-the-fly detector alignment and calibration. Links: <a href="https://indico.cern.ch/event/1499357/contributions/6628604/" target="_blank" rel="noopener">Talk</a> / <a href="https://indico.cern.ch/event/1488410/contributions/6562892/" target="_blank" rel="noopener">Poster</a>
 - **ATLAS ML Trigger** (2024 - Present)  
   HLS/hls4ml kernels on Xilinx Alveo U250 for Event Filter tracking; optimized for latency and throughput. Migration of the Event Filter tracking pipeline to Versal VCK190, VEK280, VP1552 platforms (from data-center card to embedded accel).
 - **FPGA Accelerated Trigger for DUNE** (2023)  
   Implemented 2D CNN-based trigger and feature extraction firmware for large-scale neutrino detectors.
 - **Anomaly Detection on FPGA** (2023)  
-  Autoencoder-based data quality monitoring on Xilinx Alveo boards for streaming liquid argon TPC data. Links: [Paper (arXiv)](https://arxiv.org/abs/2509.21817) / [Code (GitHub)](https://github.com/AkshayMalige/Nevis_LarTPC_anamoly_alveo)
+  Autoencoder-based data quality monitoring on Xilinx Alveo boards for streaming liquid argon TPC data. Links: <a href="https://arxiv.org/abs/2509.21817" target="_blank" rel="noopener">Paper (arXiv)</a> / <a href="https://github.com/AkshayMalige/Nevis_LarTPC_anamoly_alveo" target="_blank" rel="noopener">Code (GitHub)</a>
 - **GRAMS TPC Readout** (2023)  
   Lead for FPGA DAQ, slow control, and system integration for the balloon-borne gamma-ray experiment.
 - **PANDA Straw Tracker DAQ** (2019 - 2022)  
@@ -153,11 +153,11 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 
 ## Conference Presentations & Workshops
 
-- Connecting the Dots (CTD 2025), University of Tokyo, Nov 10-14, 2025 — Talk: "Real time inference on heterogeneous devices for detector calibration." [Talk](https://indico.cern.ch/event/1499357/contributions/6628604/) / [Event](https://indico.cern.ch/event/1499357/)
-- ACAT 2025, University of Hamburg, Sep 8-12, 2025 — Poster: "Accelerating Detector Alignment Calibration with Real-Time Machine Learning on Versal ACAP Devices." [Poster](https://indico.cern.ch/event/1488410/contributions/6562892/) / [Event](https://indico.cern.ch/event/1488410/)
-- US ATLAS HLS Education and Development (AHEAD) Bootcamp, Brookhaven National Lab, June 9–13, 2025 — Co-organizer; developed FPGA HLS training materials and instructed 30+ participants. [Event](https://indico.cern.ch/event/1500540/) / [Tutorial page](https://github.com/AkshayMalige/AHEAD_2025/tree/main?tab=readme-ov-file)
-- European AI for Fundamental Physics Conference (EuCAIFCon), Amsterdam, Apr 30 – May 3, 2024 — Poster presenter on FPGA-based anomaly detection. [Contribution](https://indico.nikhef.nl/event/4875/contributions/20460/)
-- Neutrino Physics and Machine Learning Workshop, Tufts University, Aug 22-25, 2023. [Event](https://indico.ipmu.jp/event/462/)
+- Connecting the Dots (CTD 2025), University of Tokyo, Nov 10-14, 2025 — Talk: "Real time inference on heterogeneous devices for detector calibration." <a href="https://indico.cern.ch/event/1499357/contributions/6628604/" target="_blank" rel="noopener">Talk</a> / <a href="https://indico.cern.ch/event/1499357/" target="_blank" rel="noopener">Event</a>
+- ACAT 2025, University of Hamburg, Sep 8-12, 2025 — Poster: "Accelerating Detector Alignment Calibration with Real-Time Machine Learning on Versal ACAP Devices." <a href="https://indico.cern.ch/event/1488410/contributions/6562892/" target="_blank" rel="noopener">Poster</a> / <a href="https://indico.cern.ch/event/1488410/" target="_blank" rel="noopener">Event</a>
+- US ATLAS HLS Education and Development (AHEAD) Bootcamp, Brookhaven National Lab, June 9–13, 2025 — Co-organizer; developed FPGA HLS training materials and instructed 30+ participants. <a href="https://indico.cern.ch/event/1500540/" target="_blank" rel="noopener">Event</a> / <a href="https://github.com/AkshayMalige/AHEAD_2025/tree/main?tab=readme-ov-file" target="_blank" rel="noopener">Tutorial page</a>
+- European AI for Fundamental Physics Conference (EuCAIFCon), Amsterdam, Apr 30 – May 3, 2024 — Poster presenter on FPGA-based anomaly detection. <a href="https://indico.nikhef.nl/event/4875/contributions/20460/" target="_blank" rel="noopener">Contribution</a>
+- Neutrino Physics and Machine Learning Workshop, Tufts University, Aug 22-25, 2023. <a href="https://indico.ipmu.jp/event/462/" target="_blank" rel="noopener">Event</a>
 - Xilinx Adaptive Compute Ph.D. School, ETH Zurich, Jan 24-28, 2022.
 - FAIRNESS 2019 (Arenzano), MESON 2018 (Krakow), and earlier conferences.
 
