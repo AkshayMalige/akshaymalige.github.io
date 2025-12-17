@@ -109,7 +109,10 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
   <div class="edu-work-body">
     <div class="edu-work-title"><strong>Jagiellonian University</strong> — <em>Ph.D. in Physics</em></div>
     <div class="edu-work-meta">2017 - 2023 · Krakow, Poland</div>
-    <p>Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.</p>
+    <p>
+      Thesis: "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.
+      <a href="https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content" target="_blank" rel="noopener">PDF</a>
+    </p>
   </div>
 </div>
 
@@ -149,7 +152,7 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 - **GRAMS TPC Readout** (2023)  
   Lead for FPGA DAQ, slow control, and system integration for the balloon-borne gamma-ray experiment.
 - **PANDA Straw Tracker DAQ** (2019 - 2022)  
-  FPGA readout, online processing, and calibration for PANDA straw tube tracker (Ph.D. thesis).
+  FPGA readout, online processing, and calibration for PANDA straw tube tracker (Ph.D. thesis). Link: <a href="https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content" target="_blank" rel="noopener">Thesis (PDF)</a>
 
 ## Conference Presentations & Workshops
 

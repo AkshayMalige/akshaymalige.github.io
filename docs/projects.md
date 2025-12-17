@@ -7,4 +7,4 @@ Selected FPGA, DAQ, and ML hardware projects. Replace the placeholders with link
 - **FPGA Accelerated Trigger for DUNE (2023)** — Implemented 2D CNN firmware for supernova-burst triggers and feature extraction in large neutrino detectors.
 - **Anomaly Detection on FPGA (2023)** — Autoencoder-based data quality monitoring on Xilinx Alveo for streaming liquid argon TPC data. Links: <a href="https://arxiv.org/abs/2509.21817" target="_blank" rel="noopener">Paper (arXiv)</a> / <a href="https://github.com/AkshayMalige/Nevis_LarTPC_anamoly_alveo" target="_blank" rel="noopener">Code (GitHub)</a>
 - **GRAMS TPC Readout (2023)** — DAQ firmware lead for NASA-APRA gamma-ray balloon experiment; coordinated system integration and reviews.
-- **PANDA Straw Tracker DAQ (2019-2022)** — FPGA readout, online processing, and calibration for PANDA straw tube trackers.
+- **PANDA Straw Tracker DAQ (2019-2022)** — FPGA readout, online processing, and calibration for PANDA straw tube trackers. Link: <a href="https://ruj.uj.edu.pl/server/api/core/bitstreams/98b5d691-ee85-4593-94e9-b784fa790547/content" target="_blank" rel="noopener">Thesis (PDF)</a>
