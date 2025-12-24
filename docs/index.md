@@ -1,7 +1,7 @@
 # About
 
 !!! figure inline end
-    ![Portrait of Akshay Malige](assets/profile.png)
+    ![Portrait of Akshay Malige](assets/profile_new.png)
 
 **Welcome!** I'm Akshay Malige, a physicist and FPGA/ML hardware engineer. I build detector readout electronics, FPGA-based data acquisition systems and accelerate ML algoritms on edge platforms for high-energy physics experiments, with contributions across <a href="https://www.dunescience.org/" target="_blank" rel="noopener">DUNE</a>, <a href="https://atlas.cern/" target="_blank" rel="noopener">ATLAS</a>, <a href="https://hades.gsi.de/" target="_blank" rel="noopener">HADES</a>, <a href="https://panda.gsi.de/" target="_blank" rel="noopener">PANDA</a>, and <a href="https://grams.sites.northeastern.edu/" target="_blank" rel="noopener">GRAMS</a>. I specialize in VHDL, HLS, hls4ml, Alveo and Versal ACAP platforms, with 40+ peer-reviewed publications.
 
