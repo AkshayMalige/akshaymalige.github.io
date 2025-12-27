@@ -166,71 +166,39 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 
 ## Selected Publications
 
-### Real-time Anomaly Detection for Liquid Argon Time Projection Chambers
+**[Real-time Anomaly Detection for Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2509.21817)**  
+Chung, Seokju, Cleeve, Jack, <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>, Karagiorgi, Georgia, Gerlach, Lino, Pol, Adrian A., Ojalvo, Isobel  
+*arXiv preprint arXiv:2509.21817, 2025*  
+[arXiv](https://arxiv.org/abs/2509.21817)  
 
-*Chung, Seokju, Cleeve, Jack, <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>, Karagiorgi, Georgia, Gerlach, Lino, Pol, Adrian A., Ojalvo, Isobel*
+**[Comparison of readout systems for high-rate silicon photomultiplier applications](https://doi.org/10.1088/1748-0221/19/01/P01019)**  
+Wong, M. L., Kołodziej, M., Briggl, K., Hetzel, R., Korcyl, G., Lalik, R., <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, A.</span>  
+*Journal of Instrumentation, 2024*  
+[Journal](https://doi.org/10.1088/1748-0221/19/01/P01019)  
 
-*arXiv preprint arXiv:2509.21817, 2025*
+**Read-out and online processing for the Forward Tracker in HADES and PANDA**  
+<span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>  
+*Jagiellonian University, 2023*  
 
-[arXiv](https://arxiv.org/abs/2509.21817)
+**[Production tests of front-end electronics for Straw Tube Trackers in HADES and PANDA experiments at FAIR](https://doi.org/10.1088/1748-0221/18/05/P05008)**  
+Firlej, Mirosł  
+*Journal of Instrumentation, 2023*  
+[Journal](https://doi.org/10.1088/1748-0221/18/05/P05008)  
 
----
+**[Real-Time Data Processing Pipeline for Trigger Readout Board-Based Data Acquisition Systems](https://doi.org/10.1109/TNS.2022.3168889)**  
+<span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, A.</span>, Korcyl, G., Firlej, M., Fiutowski, T., Idzik, M., Korzeniak, B., Lalik, R.  
+*IEEE Transactions on Nuclear Science, 2022*  
+[Journal](https://doi.org/10.1109/TNS.2022.3168889)  
 
-### Comparison of readout systems for high-rate silicon photomultiplier applications
+**[Hyperon studies and development of forward tracker for hades detector](https://arxiv.org/abs/2004.09387)**  
+Rathod, Narendra, Lalik, Rafał  
+*arXiv preprint arXiv:2004.09387, 2020*  
+[arXiv](https://arxiv.org/abs/2004.09387)  
 
-*Wong, M. L., Kołodziej, M., Briggl, K., Hetzel, R., Korcyl, G., Lalik, R., <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, A.</span>*
+**Measurement of signal-to-noise ratio in straw tube detectors for PANDA forward tracker**  
+Rathod, Narendra, Smyrski, Jerzy, <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>  
+*Basic Concepts in Nuclear Physics: Theory, Experiments and Applications, 2019*  
 
-*Journal of Instrumentation, 2024*
-
-[Journal](https://doi.org/10.1088/1748-0221/19/01/P01019)
-
----
-
-### Read-out and online processing for the Forward Tracker in HADES and PANDA
-
-*<span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>*
-
-*Jagiellonian University, 2023*
-
----
-
-### Production tests of front-end electronics for Straw Tube Trackers in HADES and PANDA experiments at FAIR
-
-*Firlej, Mirosł*
-
-*Journal of Instrumentation, 2023*
-
-[Journal](https://doi.org/10.1088/1748-0221/18/05/P05008)
-
----
-
-### Real-Time Data Processing Pipeline for Trigger Readout Board-Based Data Acquisition Systems
-
-*<span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, A.</span>, Korcyl, G., Firlej, M., Fiutowski, T., Idzik, M., Korzeniak, B., Lalik, R.*
-
-*IEEE Transactions on Nuclear Science, 2022*
-
-[Journal](https://doi.org/10.1109/TNS.2022.3168889)
-
----
-
-### Hyperon studies and development of forward tracker for hades detector
-
-*Rathod, Narendra, Lalik, Rafał*
-
-*arXiv preprint arXiv:2004.09387, 2020*
-
-[arXiv](https://arxiv.org/abs/2004.09387)
-
----
-
-### Measurement of signal-to-noise ratio in straw tube detectors for PANDA forward tracker
-
-*Rathod, Narendra, Smyrski, Jerzy, <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>*
-
-*Basic Concepts in Nuclear Physics: Theory, Experiments and Applications, 2019*
-
----
 
 <a href="publications/">Full Publication List</a>
 
