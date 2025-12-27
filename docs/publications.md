@@ -27,7 +27,7 @@ Firlej, Mirosł
 [Journal](https://doi.org/10.1109/TNS.2022.3168889)  
 
 **[Hyperon studies and development of forward tracker for hades detector](https://arxiv.org/abs/2004.09387)**  
-Rathod, Narendra, Lalik, Rafał  
+Rathod, Narendra, Lalik, Rafał, Malige, Akshay
 *arXiv preprint arXiv:2004.09387, 2020*  
 [arXiv](https://arxiv.org/abs/2004.09387)  
 
