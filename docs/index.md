@@ -164,15 +164,76 @@ Currently, I am a Post-doctoral Research Associate at <a href="https://www.bnl.g
 - Xilinx Adaptive Compute Ph.D. School, ETH Zurich, Jan 24-28, 2022.
 - FAIRNESS 2019 (Arenzano), MESON 2018 (Krakow), and earlier conferences.
 
-## Selected Papers
-<!-- 
-- **IEEE Trans. Nuclear Science** — "Real-Time Data Processing Pipeline for Trigger Readout Board-Based DAQ Systems." *69(7), 1765-1772 (2022).* [PDF](#) / [arXiv](#) / [DOI](#)
-- **J. Phys.: Conf. Ser.** — "Development of Forward Tracker." *1667(1), 012028 (2020).* [PDF](#) / [Slides](#) / [DOI](#)
-- **EPJ Web Conf.** — "Performance of straw tube tracker prototypes with cosmic rays." *199, 05022 (2019).* [PDF](#) / [Poster](#) / [DOI](#)
-- **EPJ Web Conf.** — "Space charge effect in straw tube detectors for PANDA." *199, 05018 (2019).* [PDF](#) / [Slides](#) / [DOI](#)
-- **JINST** — "Comparison of readout systems for high-rate SiPM applications." *19(01), P01019 (2024).* [PDF](#) / [Code](#) / [DOI](#) -->
+## Selected Publications
 
-Full publication list available on <a href="https://scholar.google.com/citations?user=X3UKMuwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>.
+### Real-time Anomaly Detection for Liquid Argon Time Projection Chambers
+
+*Chung, Seokju, Cleeve, Jack, <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>, Karagiorgi, Georgia, Gerlach, Lino, Pol, Adrian A., Ojalvo, Isobel*
+
+*arXiv preprint arXiv:2509.21817, 2025*
+
+[arXiv](https://arxiv.org/abs/2509.21817)
+
+---
+
+### Comparison of readout systems for high-rate silicon photomultiplier applications
+
+*Wong, M. L., Kołodziej, M., Briggl, K., Hetzel, R., Korcyl, G., Lalik, R., <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, A.</span>*
+
+*Journal of Instrumentation, 2024*
+
+[Journal](https://doi.org/10.1088/1748-0221/19/01/P01019)
+
+---
+
+### Read-out and online processing for the Forward Tracker in HADES and PANDA
+
+*<span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>*
+
+*Jagiellonian University, 2023*
+
+---
+
+### Production tests of front-end electronics for Straw Tube Trackers in HADES and PANDA experiments at FAIR
+
+*Firlej, Mirosł*
+
+*Journal of Instrumentation, 2023*
+
+[Journal](https://doi.org/10.1088/1748-0221/18/05/P05008)
+
+---
+
+### Real-Time Data Processing Pipeline for Trigger Readout Board-Based Data Acquisition Systems
+
+*<span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, A.</span>, Korcyl, G., Firlej, M., Fiutowski, T., Idzik, M., Korzeniak, B., Lalik, R.*
+
+*IEEE Transactions on Nuclear Science, 2022*
+
+[Journal](https://doi.org/10.1109/TNS.2022.3168889)
+
+---
+
+### Hyperon studies and development of forward tracker for hades detector
+
+*Rathod, Narendra, Lalik, Rafał*
+
+*arXiv preprint arXiv:2004.09387, 2020*
+
+[arXiv](https://arxiv.org/abs/2004.09387)
+
+---
+
+### Measurement of signal-to-noise ratio in straw tube detectors for PANDA forward tracker
+
+*Rathod, Narendra, Smyrski, Jerzy, <span style="text-decoration: underline; text-decoration-color: #999; font-weight:bold;">Malige, Akshay</span>*
+
+*Basic Concepts in Nuclear Physics: Theory, Experiments and Applications, 2019*
+
+---
+
+<a href="publications/">Full Publication List</a>
+
 ## Skills
 
 - **Hardware/HDL:** FPGA design (VHDL/Verilog), RTL logic, high-speed serial links, timing closure, PCB schematic capture.
