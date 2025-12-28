@@ -2,96 +2,93 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: Akshay Malige
+    - name: Location
+      value: Long Island, NY
+    - name: Email
+      value: amalige@bnl.gov
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post-doctoral Research Associate
+      institution: Brookhaven National Laboratory (BNL)
+      year: Dec 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working on FPGA-based ML for ATLAS Event Filter tracking and prototyping real-time alignment workflows on Versal ACAP.
+        - Implementing low-latency inference with HLS and hls4ml on Xilinx Alveo and AMD Versal devices.
+        - Building a proof-of-concept alignment pipeline spanning AI Engine tiles, programmable logic, and the ARM processing system (VEK280).
+
+    - title: Post-doctoral Research Scientist
+      institution: Columbia University (Nevis Laboratories)
+      year: Jul 2023 - Dec 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Developed FPGA firmware and ML acceleration pipelines for neutrino experiments and supported the GRAMS TPC readout effort.
+        - Implemented real-time data compression and anomaly detection on FPGA for DUNE and MicroBooNE workflows.
+        - Served as technical coordinator for NASA-APRA GRAMS, supporting design reviews and multi-institution integration of the FPGA-based readout system.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: R&D Product Engineer (FPGA Developer)
+      institution: Hitachi Energy
+      year: Feb 2023 - Jun 2023
       description:
+        - Developed and verified FPGA logic for HVDC converter control systems.
+        - Wrote VHDL modules and testbenches for control and protection functions.
+        - Ran timing analysis and verification to support integration into converter control hardware.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant (Ph.D. Researcher)
+      institution: AGH University of Science and Technology
+      year: Jan 2022 - Feb 2023
+      description:
+        - Worked on real-time DAQ and detector prototyping for HADES and PANDA tracking systems.
+        - Developed data filtering and trigger logic modules and interfaced detector electronics with the readout framework.
+        - Built and tested a PANDA straw tube tracker prototype, including front-end signal processing and calibration for beam tests.
+        - Implemented remote control and monitoring tools for HADES detector subsystems to support stable operation during runs.
 
-- title: Open Source Projects
+    - title: Training Specialist
+      institution: ThinkLabs Technosolutions
+      year: Nov 2016 - Sep 2017
+      description:
+        - Delivered STEM workshops across India for instructors and students, covering basic electronics, robotics, and physics experiments.
+        - Reached 100+ instructors and 1000+ students through hands-on training sessions.
+
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Ph.D. in Physics
+      institution: Jagiellonian University, Krakow, Poland
+      year: 2017 - 2023
+      description:
+        - Thesis "Read-out and online data processing for the Forward Tracker in HADES and PANDA." Focused on FPGA-based DAQ and real-time processing.
 
-- title: Honors and Awards
+    - title: M.Sc. in Physics
+      institution: Christ University, Bangalore, India
+      year: 2014 - 2016
+      description:
+        - Thesis "Influence of short-wave and long-wave radiation on local weather."
+
+    - title: B.Sc. in Physics, Electronics, Mathematics
+      institution: Mangalore University, Mangalore, India
+      year: 2011 - 2014
+
+- title: Honors & Grants
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
+      items: 
+        - Outstanding Working Group Award - PANDA@HADES Collaboration
+    - year: 2019, 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - University Research Grants - Jagiellonian University (MNS Grants for Young Scientists)
+    - year: 2016
       items:
-        - Max Planck Medal
+        - POLONEZ Postdoctoral Fellowship (Grant 2016/23/P/ST2/04066)
+        - Marie Sklodowska-Curie COFUND Fellowship (Grant 665778)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Hardware/HDL:</b> FPGA design (VHDL/Verilog), RTL logic, high-speed serial links, timing closure, PCB schematic capture.
+    - <b>HLS/ML:</b> Vivado HLS, Vitis HLS, hls4ml, AI Engine (AIE, AIE-ML), DPU.
+    - <b>Platforms:</b> Xilinx Alveo U55c/U250/U280, Versal VEK280, VCK190, VP1552, PYNQ-Z2, ZCU104, ZCU102, KU15P, Lattice ECP3/ECP5.
+    - <b>Software:</b> Python, C/C++, MATLAB, Bash, Git, Linux, ROOT, Docker.
+    - <b>Frameworks/Tools:</b> PyTorch, TensorFlow, PYNQ, OpenCAPI, XRT, Vitis AI; Vivado, Vitis, ModelSim, HLS Profiler, Vitis Analyzer, Lattice Diamond, Quartus.
