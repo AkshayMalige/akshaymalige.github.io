@@ -218,3 +218,12 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+/*****************************
+ * Dark Mode Fixes
+ *****************************/
+
+li.list-group-item {
+  background-color: transparent !important;
+  border: none;
+}
