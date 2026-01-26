@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-26'
 papers:
   X3UKMuwAAAAJ:0EnyYjriUFMC:
     citations: 10
@@ -21,12 +21,16 @@ papers:
     citations: 1
     title: Precision resonance energy scans with the PANDA experiment at FAIR
     year: '2019'
+  X3UKMuwAAAAJ:3s1wT3WcHBgC:
+    citations: 0
+    title: 'arXiv : First Measurement of -Ar and -Ar Total Inelastic Cross Sections in the Sub-GeV Energy Regime with ProtoDUNE-SP Data'
+    year: '2025'
   X3UKMuwAAAAJ:4DMP91E08xMC:
     citations: 6
     title: First measurement of massive virtual photon emission from N* baryon resonances
     year: '2022'
   X3UKMuwAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 2
     title: 'arXiv: Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning'
     year: '2025'
   X3UKMuwAAAAJ:4TOpqqG69KYC:
@@ -50,7 +54,7 @@ papers:
     title: Read-out and online processing for the Forward Tracker in HADES and PANDA
     year: '2023'
   X3UKMuwAAAAJ:9yKSN-GCB0IC:
-    citations: 115
+    citations: 116
     title: 'Directed, Elliptic, and Higher Order Flow Harmonics of Protons, Deuterons, and Tritons in  Collisions at '
     year: '2020'
   X3UKMuwAAAAJ:BqipwSGYUEgC:
@@ -74,7 +78,7 @@ papers:
     title: New results on light nuclei, hyperons and hypernuclei from HADES (HADES collaboration)
     year: '2022'
   X3UKMuwAAAAJ:MXK_kJrjxJIC:
-    citations: 39
+    citations: 41
     title: Proton, deuteron and triton flow measurements in Au+Au collisions at  GeV
     year: '2023'
   X3UKMuwAAAAJ:NMxIlDl6LWMC:
@@ -86,7 +90,7 @@ papers:
     title: 'arXiv: Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam'
     year: '2025'
   X3UKMuwAAAAJ:O3NaXMp0MMsC:
-    citations: 1
+    citations: 2
     title: Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam
     year: '2025'
   X3UKMuwAAAAJ:QIV2ME_5wuYC:
@@ -98,7 +102,7 @@ papers:
     title: Real-time Anomaly Detection for Liquid Argon Time Projection Chambers
     year: '2025'
   X3UKMuwAAAAJ:RHpTSmoSYBkC:
-    citations: 3
+    citations: 4
     title: Neutrino interaction vertex reconstruction in DUNE with Pandora deep learning
     year: '2025'
   X3UKMuwAAAAJ:RYcK_YlVTxYC:
@@ -145,12 +149,16 @@ papers:
     citations: 0
     title: "Proton-number fluctuations in sNN= 2.4 GeV Au+ Au collisions studied with the High-Acceptance DiElectron Spectrometer (HADES) PROTON-NUMBER FLUCTUATIONS in sNN= 2.4 GeV Au+ Au \u2026"
     year: '2020'
+  X3UKMuwAAAAJ:ZHo1McVdvXMC:
+    citations: 0
+    title: Reconstruction of atmospheric neutrinos in DUNE's horizontal-drift far-detector module
+    year: '2026'
   X3UKMuwAAAAJ:ZeXyd9-uunAC:
     citations: 1
     title: Inclusive  production in collisions of pions with protons and nuclei in the second resonance region of baryons
     year: '2025'
   X3UKMuwAAAAJ:Zph67rFs4hoC:
-    citations: 53
+    citations: 52
     title: Charged pion production in  collisions at  = 2.4
     year: '2020'
   X3UKMuwAAAAJ:_FxGoFyzp5QC:
@@ -166,7 +174,7 @@ papers:
     title: Measurement of signal-to-noise ratio in straw tube detectors for PANDA forward tracker
     year: '2018'
   X3UKMuwAAAAJ:bEWYMUwI8FkC:
-    citations: 1
+    citations: 2
     title: The DUNE Science Program
     year: '2025'
   X3UKMuwAAAAJ:d1gkVwhDpl0C:
@@ -178,7 +186,7 @@ papers:
     title: 'arXiv: Hyperon signatures in the PANDA experiment at FAIR'
     year: '2023'
   X3UKMuwAAAAJ:eQOLeE2rZwMC:
-    citations: 37
+    citations: 38
     title: Two-pion production in the second resonance region in  collisions with the High-Acceptance Di-Electron Spectrometer (HADES)
     year: '2020'
   X3UKMuwAAAAJ:g5m5HwL7SMYC:
@@ -218,17 +226,21 @@ papers:
     title: Comparison of readout systems for high-rate silicon photomultiplier applications
     year: '2024'
   X3UKMuwAAAAJ:qjMakFHDy7sC:
-    citations: 77
+    citations: 79
     title: "Measurement of global polarization of \u039B hyperons in few-GeV heavy-ion collisions"
     year: '2022'
   X3UKMuwAAAAJ:qxL8FJ1GzNcC:
-    citations: 112
+    citations: 114
     title: 'PANDA Phase One: PANDA collaboration'
     year: '2021'
   X3UKMuwAAAAJ:r0BpntZqJG4C:
     citations: 1
     title: The DUNE Phase II Detectors
     year: '2025'
+  X3UKMuwAAAAJ:rO6llkc54NcC:
+    citations: 0
+    title: 'arXiv: Reconstruction of atmospheric neutrinos in DUNE''s horizontal-drift far-detector module'
+    year: '2026'
   X3UKMuwAAAAJ:roLk4NBRz8UC:
     citations: 14
     title: HADES and the QCD phase diagram
