@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-04'
 papers:
   X3UKMuwAAAAJ:0EnyYjriUFMC:
     citations: 10
@@ -54,7 +54,7 @@ papers:
     title: Read-out and online processing for the Forward Tracker in HADES and PANDA
     year: '2023'
   X3UKMuwAAAAJ:9yKSN-GCB0IC:
-    citations: 116
+    citations: 117
     title: 'Directed, Elliptic, and Higher Order Flow Harmonics of Protons, Deuterons, and Tritons in  Collisions at '
     year: '2020'
   X3UKMuwAAAAJ:BqipwSGYUEgC:
@@ -78,7 +78,7 @@ papers:
     title: New results on light nuclei, hyperons and hypernuclei from HADES (HADES collaboration)
     year: '2022'
   X3UKMuwAAAAJ:MXK_kJrjxJIC:
-    citations: 41
+    citations: 40
     title: Proton, deuteron and triton flow measurements in Au+Au collisions at  GeV
     year: '2023'
   X3UKMuwAAAAJ:NMxIlDl6LWMC:
@@ -158,11 +158,11 @@ papers:
     title: Inclusive  production in collisions of pions with protons and nuclei in the second resonance region of baryons
     year: '2025'
   X3UKMuwAAAAJ:Zph67rFs4hoC:
-    citations: 52
+    citations: 53
     title: Charged pion production in  collisions at  = 2.4
     year: '2020'
   X3UKMuwAAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 34
     title: 'Production and electromagnetic decay of hyperons: a feasibility study with HADES as a phase-0 experiment at FAIR'
     year: '2021'
   X3UKMuwAAAAJ:_kc_bZDykSQC:
@@ -186,7 +186,7 @@ papers:
     title: 'arXiv: Hyperon signatures in the PANDA experiment at FAIR'
     year: '2023'
   X3UKMuwAAAAJ:eQOLeE2rZwMC:
-    citations: 38
+    citations: 39
     title: Two-pion production in the second resonance region in  collisions with the High-Acceptance Di-Electron Spectrometer (HADES)
     year: '2020'
   X3UKMuwAAAAJ:g5m5HwL7SMYC:
