@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-09'
 papers:
   X3UKMuwAAAAJ:0EnyYjriUFMC:
     citations: 10
     title: Hyperon studies and development of forward tracker for hades detector
     year: '2020'
   X3UKMuwAAAAJ:2P1L_qKh6hAC:
-    citations: 1
+    citations: 2
     title: First Operation of a Liquid Argon Time Projection Chamber (LArTPC) in the Stratosphere as an Engineering Gamma-Ray and AntiMatter Survey (GRAMS) Balloon Flight (eGRAMS)
     year: '2024'
   X3UKMuwAAAAJ:2osOgNQ5qMEC:
@@ -90,7 +90,7 @@ papers:
     title: 'arXiv: Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam'
     year: '2025'
   X3UKMuwAAAAJ:O3NaXMp0MMsC:
-    citations: 2
+    citations: 1
     title: Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam
     year: '2025'
   X3UKMuwAAAAJ:QIV2ME_5wuYC:
@@ -102,7 +102,7 @@ papers:
     title: Real-time Anomaly Detection for Liquid Argon Time Projection Chambers
     year: '2025'
   X3UKMuwAAAAJ:RHpTSmoSYBkC:
-    citations: 4
+    citations: 3
     title: Neutrino interaction vertex reconstruction in DUNE with Pandora deep learning
     year: '2025'
   X3UKMuwAAAAJ:RYcK_YlVTxYC:
@@ -174,7 +174,7 @@ papers:
     title: Measurement of signal-to-noise ratio in straw tube detectors for PANDA forward tracker
     year: '2018'
   X3UKMuwAAAAJ:bEWYMUwI8FkC:
-    citations: 2
+    citations: 1
     title: The DUNE Science Program
     year: '2025'
   X3UKMuwAAAAJ:d1gkVwhDpl0C:
@@ -230,7 +230,7 @@ papers:
     title: "Measurement of global polarization of \u039B hyperons in few-GeV heavy-ion collisions"
     year: '2022'
   X3UKMuwAAAAJ:qxL8FJ1GzNcC:
-    citations: 114
+    citations: 115
     title: 'PANDA Phase One: PANDA collaboration'
     year: '2021'
   X3UKMuwAAAAJ:r0BpntZqJG4C:
