@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-23'
 papers:
   X3UKMuwAAAAJ:0EnyYjriUFMC:
     citations: 10
@@ -10,7 +10,7 @@ papers:
     title: First Operation of a Liquid Argon Time Projection Chamber (LArTPC) in the Stratosphere as an Engineering Gamma-Ray and AntiMatter Survey (GRAMS) Balloon Flight (eGRAMS)
     year: '2024'
   X3UKMuwAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 2
     title: Development of forward tracker
     year: '2020'
   X3UKMuwAAAAJ:35N4QoGY0k4C:
@@ -30,7 +30,7 @@ papers:
     title: First measurement of massive virtual photon emission from N* baryon resonances
     year: '2022'
   X3UKMuwAAAAJ:4JMBOYKVnBMC:
-    citations: 2
+    citations: 5
     title: 'arXiv: Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning'
     year: '2025'
   X3UKMuwAAAAJ:4TOpqqG69KYC:
@@ -46,7 +46,7 @@ papers:
     title: 'arXiv: Identification of low-energy kaons in the ProtoDUNE-SP detector'
     year: '2025'
   X3UKMuwAAAAJ:8k81kl-MbHgC:
-    citations: 145
+    citations: 149
     title: Proton-number fluctuations in  collisions studied with the High-Acceptance DiElectron Spectrometer (HADES)
     year: '2020'
   X3UKMuwAAAAJ:9ZlFYXVOiuMC:
@@ -54,11 +54,11 @@ papers:
     title: Read-out and online processing for the Forward Tracker in HADES and PANDA
     year: '2023'
   X3UKMuwAAAAJ:9yKSN-GCB0IC:
-    citations: 117
+    citations: 118
     title: 'Directed, Elliptic, and Higher Order Flow Harmonics of Protons, Deuterons, and Tritons in  Collisions at '
     year: '2020'
   X3UKMuwAAAAJ:BqipwSGYUEgC:
-    citations: 0
+    citations: 1
     title: Spatial and temporal evaluations of the liquid argon purity in ProtoDUNE-SP
     year: '2025'
   X3UKMuwAAAAJ:HoB7MX3m0LUC:
@@ -66,7 +66,7 @@ papers:
     title: Formation and lifetime measurements of light hypernuclei in Ag+Ag collisions at  = 2.55 GeV
     year: '2025'
   X3UKMuwAAAAJ:KlAtU1dfN6UC:
-    citations: 55
+    citations: 57
     title: 'Precision resonance energy scans with the PANDA experiment at FAIR: Sensitivity study for width and line shape measurements of the X (3872)'
     year: '2019'
   X3UKMuwAAAAJ:M05iB0D1s5AC:
@@ -78,13 +78,9 @@ papers:
     title: New results on light nuclei, hyperons and hypernuclei from HADES (HADES collaboration)
     year: '2022'
   X3UKMuwAAAAJ:MXK_kJrjxJIC:
-    citations: 40
+    citations: 42
     title: Proton, deuteron and triton flow measurements in Au+Au collisions at  GeV
     year: '2023'
-  X3UKMuwAAAAJ:NMxIlDl6LWMC:
-    citations: 1
-    title: "Investigation of the \u03A30 Production Mechanism in p (3.5 GeV)+ p Collisions"
-    year: '2024'
   X3UKMuwAAAAJ:NaGl4SEjCO4C:
     citations: 0
     title: 'arXiv: Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam'
@@ -100,10 +96,6 @@ papers:
   X3UKMuwAAAAJ:RGFaLdJalmkC:
     citations: 0
     title: Real-time Anomaly Detection for Liquid Argon Time Projection Chambers
-    year: '2025'
-  X3UKMuwAAAAJ:RHpTSmoSYBkC:
-    citations: 3
-    title: Neutrino interaction vertex reconstruction in DUNE with Pandora deep learning
     year: '2025'
   X3UKMuwAAAAJ:RYcK_YlVTxYC:
     citations: 0
@@ -142,7 +134,7 @@ papers:
     title: Investigation of the  Production Mechanism in p(3.5 GeV)+p Collisions
     year: '2023'
   X3UKMuwAAAAJ:YOwf2qJgpHMC:
-    citations: 1
+    citations: 0
     title: Investigation of the  Production Mechanism in p(3.5 GeV)+p Collisions
     year: '2024'
   X3UKMuwAAAAJ:YsMSGLbcyi4C:
@@ -158,17 +150,17 @@ papers:
     title: Inclusive  production in collisions of pions with protons and nuclei in the second resonance region of baryons
     year: '2025'
   X3UKMuwAAAAJ:Zph67rFs4hoC:
-    citations: 53
+    citations: 52
     title: Charged pion production in  collisions at  = 2.4
     year: '2020'
   X3UKMuwAAAAJ:_FxGoFyzp5QC:
-    citations: 34
+    citations: 33
     title: 'Production and electromagnetic decay of hyperons: a feasibility study with HADES as a phase-0 experiment at FAIR'
     year: '2021'
   X3UKMuwAAAAJ:_kc_bZDykSQC:
     citations: 34
     title: Strong absorption of hadrons with hidden and open strangeness in nuclear matter
-    year: '2019'
+    year: '2018'
   X3UKMuwAAAAJ:aqlVkmm33-oC:
     citations: 0
     title: Measurement of signal-to-noise ratio in straw tube detectors for PANDA forward tracker
@@ -186,7 +178,7 @@ papers:
     title: 'arXiv: Hyperon signatures in the PANDA experiment at FAIR'
     year: '2023'
   X3UKMuwAAAAJ:eQOLeE2rZwMC:
-    citations: 39
+    citations: 35
     title: Two-pion production in the second resonance region in  collisions with the High-Acceptance Di-Electron Spectrometer (HADES)
     year: '2020'
   X3UKMuwAAAAJ:g5m5HwL7SMYC:
@@ -194,7 +186,7 @@ papers:
     title: Formation and lifetime measurements of light hypernuclei in Ag+Ag collisions at  = 2.55 GeV
     year: '2025'
   X3UKMuwAAAAJ:hqOjcs7Dif8C:
-    citations: 10
+    citations: 9
     title: Correlated pion-proton pair emission off hot and dense QCD matter
     year: '2021'
   X3UKMuwAAAAJ:iH-uZ7U-co4C:
@@ -206,7 +198,7 @@ papers:
     title: "Exploring time like tranistions in pp, \u03C0p and AA reactions with HADES"
     year: '2020'
   X3UKMuwAAAAJ:lSLTfruPkqcC:
-    citations: 1
+    citations: 2
     title: First operation of LArTPC in the stratosphere as an engineering GRAMS balloon flight (eGRAMS)
     year: '2024'
   X3UKMuwAAAAJ:ldfaerwXgEUC:
@@ -226,16 +218,16 @@ papers:
     title: Comparison of readout systems for high-rate silicon photomultiplier applications
     year: '2024'
   X3UKMuwAAAAJ:qjMakFHDy7sC:
-    citations: 79
+    citations: 78
     title: "Measurement of global polarization of \u039B hyperons in few-GeV heavy-ion collisions"
     year: '2022'
   X3UKMuwAAAAJ:qxL8FJ1GzNcC:
-    citations: 115
+    citations: 108
     title: 'PANDA Phase One: PANDA collaboration'
     year: '2021'
   X3UKMuwAAAAJ:r0BpntZqJG4C:
     citations: 1
-    title: The DUNE Phase II Detectors
+    title: The DUNE phase II detectors
     year: '2025'
   X3UKMuwAAAAJ:rO6llkc54NcC:
     citations: 0
@@ -255,8 +247,12 @@ papers:
     year: '2021'
   X3UKMuwAAAAJ:vV6vV6tmYwMC:
     citations: 1
-    title: Antihelium-3 Sensitivity for the GRAMS Experiment
+    title: Antihelium-3 sensitivity for the GRAMS experiment
     year: '2025'
+  X3UKMuwAAAAJ:zA6iFVUQeVQC:
+    citations: 0
+    title: "Proton, Deuteron and Triton Flow Measurements in Au+ Au Collisions at\u221A sNN"
+    year: '2022'
   X3UKMuwAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Production of hydrogen isotopes and charged pions in p (3.5 GeV)+ Nb reactions
